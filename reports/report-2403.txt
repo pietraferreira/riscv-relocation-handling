@@ -1,0 +1,18 @@
+Hi all,
+
+I am sending a report regarding the 10th lot of 10h worked on the RISC-V
+Custom Relocation Handling prototype.
+
+Key activities:
+* Cleaned up the code and ensured it is building.
+* Continued to investigate how to trigger `R_RISCV_RELOCID` as well as have it
+accompany other relocations.
+
+Planned Activities:
+* Continue to investigate and try to implement functionality to the relocation.
+
+Please let me know if there's anything that needs to be reviewed.
+
+Kind regards,
+
+Pietra

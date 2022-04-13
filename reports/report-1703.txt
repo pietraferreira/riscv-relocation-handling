@@ -1,0 +1,18 @@
+Hi all,
+
+I am sending a report regarding the 9th lot of 10h worked on the RISC-V
+Custom Relocation Handling prototype.
+
+Key activities:
+* Fixed building fail.
+* Continued work on having R_RISCV_RELOCID accompanying other relocations - as to identify the target.
+
+Planned Activities:
+* Have R_RISCV_RELOCID correctly in place.
+* Continue to investigate and implement functionality to the relocation.
+
+Please let me know if there's anything that needs to be reviewed.
+
+Kind regards,
+
+Pietra

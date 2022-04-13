@@ -1,0 +1,18 @@
+Hi all,
+
+I am sending a report regarding the seventh lot of 10h worked on the RISC-V
+Custom Relocation Handling prototype.
+
+Key activities:
+* Investigated the linker and its behaviour.
+* Ran into a bug in the implementation.
+
+Planned Activities:
+* Continue to work on the implementation: more specifically fix the current bug
+and continue to add functionality to the relocation.
+
+Please let me know if there's anything that needs to be reviewed.
+
+Kind regards,
+
+Pietra

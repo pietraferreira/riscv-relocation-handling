@@ -1,0 +1,21 @@
+Hi all,
+
+I am sending a report regarding the fifth lot of 10h worked on the RISC-V
+Custom Relocation Handling prototype.
+
+Key activities:
+* Continue to work on implementing the relocation.
+* More investigation was done, mainly on the `R_RISCV_RELAX` relocation.
+
+Planned Activities:
+* Continue to update planning sheet.
+* Continue to work on the implementation.
+
+Please let me know if there's anything that needs to be reviewed.
+
+The planning spreadsheet can be found here:
+https://docs.google.com/spreadsheets/d/1cFDyk8WvKqvrZVkNedmSuE-t3tp2bIesADtPGlYRyDE/edit?usp=sharing
+
+Kind regards,
+
+Pietra
