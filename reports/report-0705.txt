@@ -1,0 +1,16 @@
+Hi all,
+
+I am sending a report regarding the 16th lot of 10h worked on the RISC-V Custom
+Relocation prototype.
+
+Key activities:
+* Started to prototype how to access the custom secondary howto table.
+
+Planned activies:
+* Continue to investigate and implement the mechanism to correctly access the
+table and retrieve information.
+
+Please let me know if there's anything that needs to be reviewed.
+
+Kind regards,
+Pietra

@@ -1,0 +1,17 @@
+Hi all,
+
+I am sending a report regarding the 13th lot of 10h worked on the RISC-V
+Custom Relocation Handling prototype.
+
+Key activities:
+* Investigate how to implement functionality to the linker.
+* Admin (organising reports and environment).
+
+Planned Activities:
+* Continue to investigate and implement functionality to the linker.
+
+Please let me know if there's anything that needs to be reviewed.
+
+Kind regards,
+
+Pietra
