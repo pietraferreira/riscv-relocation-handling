@@ -9,7 +9,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 # Variables used in this script
-SRCPREFIX=$(cd ../ && pwd)
+SRCPREFIX=$(cd ../../ && pwd)
 INSTALLPREFIX=${SRCPREFIX}/install
 BUILDPREFIX=${SRCPREFIX}/build
 LOGDIR="${SRCPREFIX}/logs/$(date +%Y%m%d-%H%M)"
