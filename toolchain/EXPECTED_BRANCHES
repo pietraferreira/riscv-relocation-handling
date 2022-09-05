@@ -1,0 +1,7 @@
+#!/bin/bash
+
+BINUTILS_BRANCH=reloc-development
+GDB_BANCH=development
+GDB_SIM_BRANCH=spc-cgen-sim-rve
+GCC_BRANCH=development
+NEWLIB_BRANCH=newlib-4.1.0
