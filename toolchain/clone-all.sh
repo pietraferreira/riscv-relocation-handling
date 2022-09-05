@@ -2,9 +2,11 @@
 
 set -ue
 
-TOPDIR="$(dirname $(cd $(dirname $0) && echo $PWD))"
+TOPDIR="$(dirname $(dirname $(cd $(dirname $0) && echo $PWD)))"
 
-source "${TOPDIR}/toolchain/EXPECTED_BRANCHES"
+source "${TOPDIR}/riscv-relocation-handling/toolchain/EXPECTED_BRANCHES"
+
+echo ${TOPDIR}
 
 git clone -b "${BINUTILS_BRANCH}" \
     git@github.com:pietraferreira/corev-binutils-gdb.git \
